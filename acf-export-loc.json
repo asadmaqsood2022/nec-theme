@@ -1,0 +1,1331 @@
+{
+  "status": {
+    "active": true,
+    "visible": true,
+    "catalog-id": 31,
+    "searchable": true
+  },
+  "code": "BACW",
+  "description": "<ul>\r\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"6778\" data-legacy_id=\"35\" data-signature=\"5416e483a7097cd6480f58b309c1ad62\" data-display_type=\"dynamic\" data-link_text=\"Description and Learning Outcomes\" data-anchor_text=\"\" data-from_id=\"2258\" data-from_type=\"program\" data-to_id=\"773\" data-to_type=\"hierarchy\" data-show_title=\"1\" data-show_description=\"1\" data-to_legacy_id=\"1155\" data-to_url=\"/api/nec/catalog/31/hierarchy/773/\">Description and Learning Outcomes</a> </li>\r\n</ul>\r\n",
+  "created": "2020-06-04 13:37:07",
+  "degree_types": [
+    {
+      "status": {
+        "active": false,
+        "visible": false,
+        "catalog-id": 31,
+        "searchable": true
+      },
+      "category": "degree",
+      "description": "",
+      "created": "2020-06-04 09:37:05",
+      "modified": "2020-06-04 09:37:05",
+      "display": false,
+      "legacy-id": 286,
+      "catalog-id": 31,
+      "order": 3,
+      "id": 1095,
+      "name": "Bachelor of Arts"
+    }
+  ],
+  "modified": "2021-04-23 20:18:04",
+  "legacy-id": 2942,
+  "catalog-id": 31,
+  "parents": [
+    {
+      "status": {
+        "active": true,
+        "visible": true,
+        "catalog-id": 31,
+        "searchable": true
+      },
+      "name": "Creative Writing",
+      "url": "/api/nec/catalog/31/hierarchy/773/",
+      "legacy-id": 1155,
+      "catalog-id": 31,
+      "hierarchy_type": "Department",
+      "id": 773
+    }
+  ],
+  "cores": [
+    {
+      "status": {
+        "active": true,
+        "visible": true,
+        "catalog-id": 31,
+        "searchable": true
+      },
+      "code": "",
+      "name": "Requirements",
+      "created": "2020-06-04 13:37:07",
+      "modified": "2020-06-30 18:29:30",
+      "id": 15071,
+      "legacy-id": 19496,
+      "courses": [],
+      "catalog-id": 31,
+      "adhocs": [],
+      "shared": false,
+      "sort_order": 1,
+      "children": [
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "code": "",
+          "name": "Creative Writing Major Requirements",
+          "created": "2020-06-04 13:37:07",
+          "modified": "2020-06-30 18:29:30",
+          "id": 15072,
+          "legacy-id": 19497,
+          "courses": [],
+          "catalog-id": 31,
+          "adhocs": [],
+          "shared": false,
+          "sort_order": 1,
+          "children": [
+            {
+              "status": {
+                "active": true,
+                "visible": true,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "code": "",
+              "name": "CW Core Courses:",
+              "created": "2020-06-04 13:37:07",
+              "modified": "2020-06-30 17:17:34",
+              "id": 15073,
+              "legacy-id": 19498,
+              "courses": [
+                {
+                  "status": {
+                    "active": true,
+                    "visible": true,
+                    "catalog-id": 31,
+                    "searchable": true
+                  },
+                  "title": "CW 1100  - Introduction to Creative Writing ",
+                  "url": "/api/nec/catalog/31/course/13610/",
+                  "legacy-id": 19623,
+                  "course_types": [
+                    {
+                      "status": {
+                        "active": false,
+                        "visible": false,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "category": "course",
+                      "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                      "created": "2020-06-04 09:37:05",
+                      "modified": "2020-08-17 21:00:20",
+                      "display": true,
+                      "legacy-id": 1177,
+                      "catalog-id": 31,
+                      "order": 13,
+                      "id": 1109,
+                      "name": "Creative Writing"
+                    }
+                  ],
+                  "catalog-id": 31,
+                  "sort_order": 1,
+                  "id": 13610
+                },
+                {
+                  "status": {
+                    "active": true,
+                    "visible": true,
+                    "catalog-id": 31,
+                    "searchable": true
+                  },
+                  "title": "CW 2000  - Reading as Writer ",
+                  "url": "/api/nec/catalog/31/course/14355/",
+                  "legacy-id": 20484,
+                  "course_types": [
+                    {
+                      "status": {
+                        "active": false,
+                        "visible": false,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "category": "course",
+                      "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                      "created": "2020-06-04 09:37:05",
+                      "modified": "2020-08-17 21:00:20",
+                      "display": true,
+                      "legacy-id": 1177,
+                      "catalog-id": 31,
+                      "order": 13,
+                      "id": 1109,
+                      "name": "Creative Writing"
+                    }
+                  ],
+                  "catalog-id": 31,
+                  "sort_order": 2,
+                  "id": 14355
+                },
+                {
+                  "status": {
+                    "active": true,
+                    "visible": true,
+                    "catalog-id": 31,
+                    "searchable": true
+                  },
+                  "title": "CW 4300  - Senior Seminar and Topics ",
+                  "url": "/api/nec/catalog/31/course/13620/",
+                  "legacy-id": 19633,
+                  "course_types": [
+                    {
+                      "status": {
+                        "active": false,
+                        "visible": false,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "category": "course",
+                      "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                      "created": "2020-06-04 09:37:05",
+                      "modified": "2020-08-17 21:00:20",
+                      "display": true,
+                      "legacy-id": 1177,
+                      "catalog-id": 31,
+                      "order": 13,
+                      "id": 1109,
+                      "name": "Creative Writing"
+                    }
+                  ],
+                  "catalog-id": 31,
+                  "sort_order": 5,
+                  "id": 13620
+                },
+                {
+                  "status": {
+                    "active": true,
+                    "visible": true,
+                    "catalog-id": 31,
+                    "searchable": true
+                  },
+                  "title": "EN 1930  - Survey of American Literature I and II ",
+                  "url": "/api/nec/catalog/31/course/13656/",
+                  "legacy-id": 19669,
+                  "course_types": [
+                    {
+                      "status": {
+                        "active": false,
+                        "visible": false,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "category": "course",
+                      "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                      "created": "2020-06-04 09:37:05",
+                      "modified": "2020-08-17 21:00:20",
+                      "display": true,
+                      "legacy-id": 1180,
+                      "catalog-id": 31,
+                      "order": 16,
+                      "id": 1112,
+                      "name": "English"
+                    }
+                  ],
+                  "catalog-id": 31,
+                  "sort_order": 6,
+                  "id": 13656
+                }
+              ],
+              "catalog-id": 31,
+              "adhocs": [],
+              "shared": false,
+              "sort_order": 1,
+              "children": [],
+              "description": ""
+            },
+            {
+              "status": {
+                "active": true,
+                "visible": true,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "code": "",
+              "name": "Genre Workshops:",
+              "created": "2020-06-04 13:37:07",
+              "modified": "2020-06-30 18:13:50",
+              "id": 15074,
+              "legacy-id": 19499,
+              "courses": [],
+              "catalog-id": 31,
+              "adhocs": [],
+              "shared": false,
+              "sort_order": 2,
+              "children": [
+                {
+                  "status": {
+                    "active": true,
+                    "visible": true,
+                    "catalog-id": 31,
+                    "searchable": true
+                  },
+                  "code": "",
+                  "name": "Take three (3) courses from the following list:",
+                  "created": "2020-06-04 13:37:07",
+                  "modified": "2020-06-30 18:13:50",
+                  "id": 15075,
+                  "legacy-id": 19500,
+                  "courses": [
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "CW 2100  - Fiction Workshop ",
+                      "url": "/api/nec/catalog/31/course/13611/",
+                      "legacy-id": 19624,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1177,
+                          "catalog-id": 31,
+                          "order": 13,
+                          "id": 1109,
+                          "name": "Creative Writing"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 1,
+                      "id": 13611
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "CW 2110  - Poetry Workshop ",
+                      "url": "/api/nec/catalog/31/course/13612/",
+                      "legacy-id": 19625,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1177,
+                          "catalog-id": 31,
+                          "order": 13,
+                          "id": 1109,
+                          "name": "Creative Writing"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 2,
+                      "id": 13612
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "CW 2120  - Creative Nonfiction Workshop ",
+                      "url": "/api/nec/catalog/31/course/13613/",
+                      "legacy-id": 19626,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1177,
+                          "catalog-id": 31,
+                          "order": 13,
+                          "id": 1109,
+                          "name": "Creative Writing"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 3,
+                      "id": 13613
+                    }
+                  ],
+                  "catalog-id": 31,
+                  "adhocs": [
+                    {
+                      "content": "<ul>\r\n\t<li>CW 2990 - Special Topics in Creative Writing <em>(4 Credits)</em></li>\r\n</ul>",
+                      "placement": "after",
+                      "name": "topics",
+                      "created": "2020-06-30 17:26:40",
+                      "modified": "2020-06-30 18:13:51",
+                      "id": 9320,
+                      "legacy-id": 13329,
+                      "credits": "",
+                      "display": "<li>CW 2990 - Special Topics in Creative Writing <em>(4 Credits)</em></li>",
+                      "course-id": 13613
+                    }
+                  ],
+                  "shared": false,
+                  "sort_order": 1,
+                  "children": [],
+                  "description": ""
+                }
+              ],
+              "description": ""
+            },
+            {
+              "status": {
+                "active": true,
+                "visible": true,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "code": "",
+              "name": "Advanced Genre Workshops:",
+              "created": "2020-06-04 13:37:07",
+              "modified": "2020-06-30 18:15:03",
+              "id": 15076,
+              "legacy-id": 19501,
+              "courses": [],
+              "catalog-id": 31,
+              "adhocs": [],
+              "shared": false,
+              "sort_order": 3,
+              "children": [
+                {
+                  "status": {
+                    "active": true,
+                    "visible": true,
+                    "catalog-id": 31,
+                    "searchable": true
+                  },
+                  "code": "",
+                  "name": "Take two (2) courses from the following list:",
+                  "created": "2020-06-04 13:37:07",
+                  "modified": "2020-06-30 18:15:03",
+                  "id": 15077,
+                  "legacy-id": 19502,
+                  "courses": [
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "CW 3100  - Advanced Fiction Workshop ",
+                      "url": "/api/nec/catalog/31/course/13615/",
+                      "legacy-id": 19628,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1177,
+                          "catalog-id": 31,
+                          "order": 13,
+                          "id": 1109,
+                          "name": "Creative Writing"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 1,
+                      "id": 13615
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "CW 3110  - Advanced Poetry Workshop ",
+                      "url": "/api/nec/catalog/31/course/13616/",
+                      "legacy-id": 19629,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1177,
+                          "catalog-id": 31,
+                          "order": 13,
+                          "id": 1109,
+                          "name": "Creative Writing"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 2,
+                      "id": 13616
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "CW 3120  - Advanced Nonfiction Workshop ",
+                      "url": "/api/nec/catalog/31/course/13617/",
+                      "legacy-id": 19630,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1177,
+                          "catalog-id": 31,
+                          "order": 13,
+                          "id": 1109,
+                          "name": "Creative Writing"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 3,
+                      "id": 13617
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "CO 3120  - Journalism: Feature Writing Workshop ",
+                      "url": "/api/nec/catalog/31/course/13565/",
+                      "legacy-id": 19578,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1175,
+                          "catalog-id": 31,
+                          "order": 11,
+                          "id": 1107,
+                          "name": "Communication Studies"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 4,
+                      "id": 13565
+                    }
+                  ],
+                  "catalog-id": 31,
+                  "adhocs": [
+                    {
+                      "content": "<ul>\r\n\t<li>CW 3990 - Advanced Special Topics in Creative Writing <em>(4 Credits)</em></li>\r\n</ul>",
+                      "placement": "after",
+                      "name": "topics",
+                      "created": "2020-06-30 17:29:59",
+                      "modified": "2020-06-30 18:15:03",
+                      "id": 9321,
+                      "legacy-id": 13330,
+                      "credits": "",
+                      "display": "<li>CW 3990 - Advanced Special Topics in Creative Writing <em>(4 Credits)</em></li>",
+                      "course-id": 13565
+                    }
+                  ],
+                  "shared": false,
+                  "sort_order": 1,
+                  "children": [],
+                  "description": ""
+                }
+              ],
+              "description": ""
+            },
+            {
+              "status": {
+                "active": true,
+                "visible": true,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "code": "",
+              "name": "Literary Movements:",
+              "created": "2020-06-04 13:37:07",
+              "modified": "2020-06-30 18:16:13",
+              "id": 15078,
+              "legacy-id": 19503,
+              "courses": [],
+              "catalog-id": 31,
+              "adhocs": [],
+              "shared": false,
+              "sort_order": 4,
+              "children": [
+                {
+                  "status": {
+                    "active": true,
+                    "visible": true,
+                    "catalog-id": 31,
+                    "searchable": true
+                  },
+                  "code": "",
+                  "name": "Take three (3) courses from the following list:",
+                  "created": "2020-06-04 13:37:07",
+                  "modified": "2020-06-30 18:08:44",
+                  "id": 15079,
+                  "legacy-id": 19504,
+                  "courses": [
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "EN 2000  - Topics in Literary Movements ",
+                      "url": "/api/nec/catalog/31/course/13658/",
+                      "legacy-id": 19671,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1180,
+                          "catalog-id": 31,
+                          "order": 16,
+                          "id": 1112,
+                          "name": "English"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 1,
+                      "id": 13658
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "EN 3000  - Advanced Topics Literary Movements ",
+                      "url": "/api/nec/catalog/31/course/13667/",
+                      "legacy-id": 19680,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1180,
+                          "catalog-id": 31,
+                          "order": 16,
+                          "id": 1112,
+                          "name": "English"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 2,
+                      "id": 13667
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "EN 2070 (WS 2070) - Comparative Mythology ",
+                      "url": "/api/nec/catalog/31/course/13663/",
+                      "legacy-id": 19676,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1180,
+                          "catalog-id": 31,
+                          "order": 16,
+                          "id": 1112,
+                          "name": "English"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 3,
+                      "id": 13663
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "EN 3950 (TH 3950) - Shakespeare ",
+                      "url": "/api/nec/catalog/31/course/13675/",
+                      "legacy-id": 19688,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1180,
+                          "catalog-id": 31,
+                          "order": 16,
+                          "id": 1112,
+                          "name": "English"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 4,
+                      "id": 13675
+                    },
+                    {
+                      "status": {
+                        "active": true,
+                        "visible": true,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "title": "TH 3420  - Play Analysis ",
+                      "url": "/api/nec/catalog/31/course/13986/",
+                      "legacy-id": 20026,
+                      "course_types": [
+                        {
+                          "status": {
+                            "active": false,
+                            "visible": false,
+                            "catalog-id": 31,
+                            "searchable": true
+                          },
+                          "category": "course",
+                          "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                          "created": "2020-06-04 09:37:05",
+                          "modified": "2020-08-17 21:00:20",
+                          "display": true,
+                          "legacy-id": 1202,
+                          "catalog-id": 31,
+                          "order": 46,
+                          "id": 1134,
+                          "name": "Theatre"
+                        }
+                      ],
+                      "catalog-id": 31,
+                      "sort_order": 5,
+                      "id": 13986
+                    }
+                  ],
+                  "catalog-id": 31,
+                  "adhocs": [],
+                  "shared": false,
+                  "sort_order": 1,
+                  "children": [],
+                  "description": ""
+                }
+              ],
+              "description": ""
+            },
+            {
+              "status": {
+                "active": true,
+                "visible": true,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "code": "",
+              "name": "Contemporary Literature Electives",
+              "created": "2020-06-30 18:09:58",
+              "modified": "2020-06-30 18:29:30",
+              "id": 15748,
+              "legacy-id": 20340,
+              "courses": [
+                {
+                  "status": {
+                    "active": true,
+                    "visible": true,
+                    "catalog-id": 31,
+                    "searchable": true
+                  },
+                  "title": "EN 2002  - Topics in Contemporary Literature ",
+                  "url": "/api/nec/catalog/31/course/13660/",
+                  "legacy-id": 19673,
+                  "course_types": [
+                    {
+                      "status": {
+                        "active": false,
+                        "visible": false,
+                        "catalog-id": 31,
+                        "searchable": true
+                      },
+                      "category": "course",
+                      "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+                      "created": "2020-06-04 09:37:05",
+                      "modified": "2020-08-17 21:00:20",
+                      "display": true,
+                      "legacy-id": 1180,
+                      "catalog-id": 31,
+                      "order": 16,
+                      "id": 1112,
+                      "name": "English"
+                    }
+                  ],
+                  "catalog-id": 31,
+                  "sort_order": 1,
+                  "id": 13660
+                }
+              ],
+              "catalog-id": 31,
+              "adhocs": [
+                {
+                  "content": "<ul>\n\t<li>EN 2002 - Topics in Contemporary Literature<em> (4 Credits)</em></li>\n</ul>",
+                  "placement": "after",
+                  "name": "second",
+                  "created": "2020-06-30 18:25:49",
+                  "modified": "2020-06-30 18:25:49",
+                  "id": 9322,
+                  "legacy-id": 13331,
+                  "credits": "",
+                  "display": "<li>EN 2002 - Topics in Contemporary Literature<em> (4 Credits)</em></li>",
+                  "course-id": 13660
+                }
+              ],
+              "shared": false,
+              "sort_order": 5,
+              "children": [],
+              "description": "<p>8 credits in:</p>\n"
+            }
+          ],
+          "description": "<p><strong>(48 credits)</strong></p>\n"
+        }
+      ],
+      "description": "<p>Grades of C‐ or better are required for any course credit to count toward the major in Creative Writing.</p>\n"
+    },
+    {
+      "status": {
+        "active": true,
+        "visible": true,
+        "catalog-id": 31,
+        "searchable": true
+      },
+      "code": "Req. & LAS",
+      "name": "Liberal Arts & Sciences Core Curriculum, Bachelor's Degree",
+      "created": "2020-06-04 13:37:07",
+      "modified": "2020-09-07 19:18:17",
+      "id": 15430,
+      "legacy-id": 19842,
+      "courses": [
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "LAS 1000  - Bridges to Learning ",
+          "url": "/api/nec/catalog/31/course/13797/",
+          "legacy-id": 19810,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>In addition to introducing students to the range of disciplines in the liberal arts, LAS seminars will ask students to reflect upon what it means to be human in the context of our individual and collective obligations.</p>\n\n<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1187,
+              "catalog-id": 31,
+              "order": 30,
+              "id": 1119,
+              "name": "Liberal Arts & Science"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 1,
+          "id": 13797
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "WR 1010  - Composition ",
+          "url": "/api/nec/catalog/31/course/13996/",
+          "legacy-id": 20036,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1203,
+              "catalog-id": 31,
+              "order": 47,
+              "id": 1135,
+              "name": "Writing"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 2,
+          "id": 13996
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "MT 1100  - Quantitative Reasoning ",
+          "url": "/api/nec/catalog/31/course/13812/",
+          "legacy-id": 19825,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1190,
+              "catalog-id": 31,
+              "order": 32,
+              "id": 1122,
+              "name": "Mathematics"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 3,
+          "id": 13812
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "LAS 1 (LAS 1110) - The Natural Environment - Understanding Our Place in the Natural World ",
+          "url": "/api/nec/catalog/31/course/13790/",
+          "legacy-id": 19803,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>In addition to introducing students to the range of disciplines in the liberal arts, LAS seminars will ask students to reflect upon what it means to be human in the context of our individual and collective obligations.</p>\n\n<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1187,
+              "catalog-id": 31,
+              "order": 30,
+              "id": 1119,
+              "name": "Liberal Arts & Science"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 4,
+          "id": 13790
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "LAS 2 (LAS 1120) - The Civic Environment - Democratic Values ",
+          "url": "/api/nec/catalog/31/course/13791/",
+          "legacy-id": 19804,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>In addition to introducing students to the range of disciplines in the liberal arts, LAS seminars will ask students to reflect upon what it means to be human in the context of our individual and collective obligations.</p>\n\n<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1187,
+              "catalog-id": 31,
+              "order": 30,
+              "id": 1119,
+              "name": "Liberal Arts & Science"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 5,
+          "id": 13791
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "LAS 3 (LAS 2110) - Creative Arts ",
+          "url": "/api/nec/catalog/31/course/13792/",
+          "legacy-id": 19805,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>In addition to introducing students to the range of disciplines in the liberal arts, LAS seminars will ask students to reflect upon what it means to be human in the context of our individual and collective obligations.</p>\n\n<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1187,
+              "catalog-id": 31,
+              "order": 30,
+              "id": 1119,
+              "name": "Liberal Arts & Science"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 6,
+          "id": 13792
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "LAS 4 (LAS 2120) - Social Sciences ",
+          "url": "/api/nec/catalog/31/course/13793/",
+          "legacy-id": 19806,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>In addition to introducing students to the range of disciplines in the liberal arts, LAS seminars will ask students to reflect upon what it means to be human in the context of our individual and collective obligations.</p>\n\n<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1187,
+              "catalog-id": 31,
+              "order": 30,
+              "id": 1119,
+              "name": "Liberal Arts & Science"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 7,
+          "id": 13793
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "LAS 5 (LAS 2130) - Natural and Biological Sciences ",
+          "url": "/api/nec/catalog/31/course/13794/",
+          "legacy-id": 19807,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>In addition to introducing students to the range of disciplines in the liberal arts, LAS seminars will ask students to reflect upon what it means to be human in the context of our individual and collective obligations.</p>\n\n<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1187,
+              "catalog-id": 31,
+              "order": 30,
+              "id": 1119,
+              "name": "Liberal Arts & Science"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 8,
+          "id": 13794
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "LAS 6 (LAS 2140) - Humanities ",
+          "url": "/api/nec/catalog/31/course/13795/",
+          "legacy-id": 19808,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>In addition to introducing students to the range of disciplines in the liberal arts, LAS seminars will ask students to reflect upon what it means to be human in the context of our individual and collective obligations.</p>\n\n<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1187,
+              "catalog-id": 31,
+              "order": 30,
+              "id": 1119,
+              "name": "Liberal Arts & Science"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 9,
+          "id": 13795
+        },
+        {
+          "status": {
+            "active": true,
+            "visible": true,
+            "catalog-id": 31,
+            "searchable": true
+          },
+          "title": "LAS 7 (LAS 3110) - Global Perspectives ",
+          "url": "/api/nec/catalog/31/course/13796/",
+          "legacy-id": 19809,
+          "course_types": [
+            {
+              "status": {
+                "active": false,
+                "visible": false,
+                "catalog-id": 31,
+                "searchable": true
+              },
+              "category": "course",
+              "description": "<p>In addition to introducing students to the range of disciplines in the liberal arts, LAS seminars will ask students to reflect upon what it means to be human in the context of our individual and collective obligations.</p>\n\n<p>All undergraduate courses are 4 credits unless otherwise noted.</p>\n",
+              "created": "2020-06-04 09:37:05",
+              "modified": "2020-08-17 21:00:20",
+              "display": true,
+              "legacy-id": 1187,
+              "catalog-id": 31,
+              "order": 30,
+              "id": 1119,
+              "name": "Liberal Arts & Science"
+            }
+          ],
+          "catalog-id": 31,
+          "sort_order": 10,
+          "id": 13796
+        }
+      ],
+      "catalog-id": 31,
+      "adhocs": [
+        {
+          "content": "<ul>\r\n\t<li>LAS Elective<em> (4 Credits) One additional course that meets any LAS requirement or combination of two 2-credit approved electives.</em></li>\r\n</ul>",
+          "placement": "after",
+          "name": "LAS Elective (4 Credits)",
+          "created": "2020-06-04 13:37:42",
+          "modified": "2020-09-07 19:18:17",
+          "id": 9095,
+          "legacy-id": 13104,
+          "credits": "",
+          "display": "<li>LAS Elective<em> (4 Credits) One additional course that meets any LAS requirement or combination of two 2-credit approved electives.</em></li>",
+          "course-id": 13796
+        },
+        {
+          "content": "<p>or approved LAS Writing Course.</p>",
+          "placement": "right",
+          "name": "or approved Writing Requirement",
+          "created": "2020-06-04 13:37:42",
+          "modified": "2020-06-04 13:37:42",
+          "id": 9287,
+          "legacy-id": 13296,
+          "credits": "",
+          "display": "or approved LAS Writing Course. ",
+          "course-id": 13996
+        },
+        {
+          "content": "<p>or higher</p>",
+          "placement": "right",
+          "name": "or higher",
+          "created": "2020-08-21 20:00:21",
+          "modified": "2020-08-21 20:00:21",
+          "id": 9391,
+          "legacy-id": 13400,
+          "credits": "",
+          "display": "or higher ",
+          "course-id": 13812
+        }
+      ],
+      "shared": true,
+      "sort_order": 2,
+      "children": [],
+      "description": ""
+    },
+    {
+      "status": {
+        "active": true,
+        "visible": true,
+        "catalog-id": 31,
+        "searchable": true
+      },
+      "code": "Bachelor's Degree",
+      "name": "Electives",
+      "created": "2020-06-04 13:37:07",
+      "modified": "2020-06-04 13:37:07",
+      "id": 15614,
+      "legacy-id": 19995,
+      "courses": [],
+      "catalog-id": 31,
+      "adhocs": [],
+      "shared": true,
+      "sort_order": 3,
+      "children": [],
+      "description": "<p>Select additional electives to reach 120 credits for a Bachelor's degree. </p>\n"
+    }
+  ],
+  "program_types": [
+    {
+      "status": {
+        "active": false,
+        "visible": false,
+        "catalog-id": 31,
+        "searchable": true
+      },
+      "category": "program",
+      "description": "",
+      "created": "2020-06-04 09:37:05",
+      "modified": "2020-06-04 09:37:05",
+      "display": false,
+      "legacy-id": 107,
+      "catalog-id": 31,
+      "order": 1,
+      "id": 1089,
+      "name": "Major"
+    }
+  ],
+  "id": 2258,
+  "name": "Creative Writing, B.A."
+}

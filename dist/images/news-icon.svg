@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B711C113-B2C7-4994-9C6C-B61F56F06421</title>
+    <g id="Index-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-135.000000, -3720.000000)">
+            <g id="Group-3" transform="translate(119.000000, 3330.000000)">
+                <g id="3.0-Modules/news-event-card-default" transform="translate(0.000000, 154.000000)">
+                    <rect id="Background" fill="transparent" x="0" y="0" width="384" height="518"></rect>
+                    <g id="Icon" transform="translate(16.000000, 236.000000)">
+                        <circle id="Oval" fill="#B7EDBE" cx="16" cy="16" r="16"></circle>
+                        <g id="Planning-/-Time-/-calendar-/-32" transform="translate(10.000000, 11.000000)" fill="#000000">
+                            <path d="M11,0 L11,1.085 L0.82,2.935 C0.338907474,3.02296733 -0.00797625269,3.44599627 -2.86175163e-16,3.935 L-2.86175163e-16,6.105 C-0.00797625269,6.59400373 0.338907474,7.01703267 0.82,7.105 L2,7.28 L2,9 C2,9.55228475 2.44771525,10 3,10 L7,10 C7.55228475,10 8,9.55228475 8,9 L8,8.37 L11,8.915 L11,10 L12,10 L12,0 L11,0 Z M7,9 L3,9 L3,7.465 L7,8.19 L7,9 Z M1,6.085 L1,3.915 L11,2.1 L11,7.9 L1,6.085 Z" id="Fill"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
